@@ -1,1 +1,4 @@
 #include<stdio.h>
+int main(){
+cout<<"hell yeah\n";
+}
